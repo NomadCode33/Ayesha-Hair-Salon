@@ -32,7 +32,8 @@ Feel free to explore some of my other projects in my portfolio:
 **DragonDex:** [DragonDex](https://github.com/NomadCode33/DevChronicles/tree/main/DragonDex)
 
 **Level Ground:** [Level Ground](https://github.com/NomadCode33/DevChronicles/tree/main/Level-Ground)
-<br>
-<br>
 
+## Repositories
 **Profile:** [NomadCode33](https://github.com/NomadCode33)
+
+**Main Repository:** [DevChronicles](https://github.com/NomadCode33/DevChronicles)
